@@ -12,7 +12,7 @@ let students = [
         age : 22,
         qualification : "Under-Graduate",
         contact : "03456-87479-63",
-        picture : "https://www.topuniversities.com/sites/default/files/styles/700xauto/public/articles/lead-images/main.jpg"
+        picture : "https://img.freepik.com/free-photo/smiling-girl-holding-notebooks-leaning-table_23-2147657265.jpg?size=626&ext=jpg&ga=GA1.2.1353492751.1597576828 "
     },
     
     {
